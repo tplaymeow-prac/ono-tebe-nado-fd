@@ -259,7 +259,7 @@
 .footer {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  margin: 180px 50px 0 50px;
+  margin: 180px 50px 82px 50px;
 }
 
 .footer__menu {
